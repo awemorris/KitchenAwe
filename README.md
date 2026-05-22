@@ -19,4 +19,4 @@ Awe's recipe notes
 
 ## Sweets
 
-- [Cheesecake](sweets/cheesecake1.md)
+- [Cheesecake](Sweets/cheesecake1.md)
