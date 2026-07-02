@@ -1,5 +1,5 @@
-Hot Soba Soup
-=============
+Hot Kansai Udon Soup
+====================
 
 ## What You Prepare
 
@@ -8,17 +8,17 @@ A:
 |-----------------------------------|------------------|
 | Konbu Soup Stock (Liquid)         | 1 tablespoon     |
 | Shiro-Dashi Soup Stock (Liquid)   | 1 tablespoon     |
-| Soy Sauce (Koikuchi)              | 1 tablespoon     |
+| Soy Sauce (Usukuchi)              | 1 tablespoon     |
 | Sake (Japanese Cooking Wine)      | 1 tablespoon     |
 | Mirin                             | 1 tablespoon     |
-| Sugar                             | 1 tablespoon     |
+| Sugar                             | 0.5 tablespoon   |
 | Water                             | 300 ml           |
 
 B: Optional
-| Item                              | Weight           |
-|-----------------------------------|------------------|
-| Green Onion Slice                 | 20g              |
-| Raw Egg                           | 1                |
+
+- Green Onion Slice
+- Raw Egg
+- White Sesami
 
 ## Steps
 
