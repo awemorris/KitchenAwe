@@ -3,6 +3,8 @@ Awe's recipe notes
 
 ## Japanese
 
+- [Hot Soba Soup](Japanese/soba1.md)
+
 ## Chinese
 
 ## Korean
